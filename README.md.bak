@@ -4,7 +4,7 @@ This project aims to develop a suspension control system for a car. The control 
 
 The control system will be based on state feedback control. The inputs to the control system will be the wheel positions and the outputs will be the suspension forces. The control system will calculate the suspension forces necessary to keep the car stable.
 
-The control system will be developed using the MATLAB software. The control system will be tested on MATLAB.
+The control system will be developed using the MATLAB software. The control system will be tested on a car simulator.
 
 ## Expected Results
 
