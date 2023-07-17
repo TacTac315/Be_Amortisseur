@@ -1,0 +1,14 @@
+\babel@toc {french}{}\relax 
+\contentsline {section}{\numberline {}Introduction}{2}{section*.2}%
+\contentsline {section}{\numberline {1}Modélisation}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Équations du système}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Equation d'état du système}{4}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Analyse en boucle ouverte}{5}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Fonctions de transfert}{5}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Diagrammes de Bode}{5}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Réponse à un échelon de 8cm (trottoir)}{6}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Commande optimale}{8}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Coefficients q donnés}{8}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Modification des coefficients}{10}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Placement de pôles}{11}{section.4}%
+\contentsline {section}{\numberline {5}Conclusion}{13}{section.5}%
